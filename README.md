@@ -13,6 +13,7 @@ AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 ```
+![image](https://github.com/SanjeethTharmarajah/dayevents/assets/130941252/a8c219e7-7734-420f-851a-2eb6d9f6537c)
 
 ## Acceptance Criteria
 
