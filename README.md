@@ -15,6 +15,8 @@ SO THAT I can manage my time effectively
 ```
 ![image](https://github.com/SanjeethTharmarajah/dayevents/assets/130941252/a8c219e7-7734-420f-851a-2eb6d9f6537c)
 
+https://sanjeeththarmarajah.github.io/dayevents/
+
 ## Acceptance Criteria
 
 ```
